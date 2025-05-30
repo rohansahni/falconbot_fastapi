@@ -1,0 +1,360 @@
+{
+  "Sign in screen": ["https://ik.imagekit.io/bmf6noswq/images/image40.jpg"],
+  "Sign up page": ["https://ik.imagekit.io/bmf6noswq/images/image41.jpg"],
+  "Forget password": [
+    "https://ik.imagekit.io/bmf6noswq/images/image12.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image24.jpg"
+  ],
+  "Left drawer menu": ["https://ik.imagekit.io/bmf6noswq/images/image7.jpg"],
+  "Profile": [
+    "https://ik.imagekit.io/bmf6noswq/images/image7.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image66.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image64.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image17.jpg"
+  ],
+  "Device Security": [
+    "https://ik.imagekit.io/bmf6noswq/images/image7.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image66.jpg"
+  ],
+  "Logout in profile page": [
+    "https://ik.imagekit.io/bmf6noswq/images/image7.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image66.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image18.jpg"
+  ],
+  "Delete Account": [
+    "https://ik.imagekit.io/bmf6noswq/images/image7.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image66.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image13.jpg"
+  ],
+  "Change password": [
+    "https://ik.imagekit.io/bmf6noswq/images/image7.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image5.jpg"
+  ],
+  "Status": [
+    "https://ik.imagekit.io/bmf6noswq/images/image7.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image35.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image43.jpg"
+  ],
+  "Notes": [
+    "https://ik.imagekit.io/bmf6noswq/images/image7.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image49.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image28.jpg"
+  ],
+  "Logout in left drawer menu": [
+    "https://ik.imagekit.io/bmf6noswq/images/image7.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image59.jpg"
+  ],
+  "Marquee bar": ["https://ik.imagekit.io/bmf6noswq/images/image48.jpg"],
+  "User Account with Time and Date": [
+    "https://ik.imagekit.io/bmf6noswq/images/image48.jpg"
+  ],
+  "Notifications": [
+    "https://ik.imagekit.io/bmf6noswq/images/image48.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image39.jpg"
+  ],
+  "Announcements": [
+    "https://ik.imagekit.io/bmf6noswq/images/image48.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image36.jpg"
+  ],
+  "Tasks": [
+    "https://ik.imagekit.io/bmf6noswq/images/image48.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image20.jpg"
+  ],
+  "User Contacts": [
+    "https://ik.imagekit.io/bmf6noswq/images/image48.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image8.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image56.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image21.jpg"
+  ],
+  "User detail in user Contacts": [
+    "https://ik.imagekit.io/bmf6noswq/images/image21.jpg"
+  ],
+  "Communicating in user detail": [
+    "https://ik.imagekit.io/bmf6noswq/images/image21.jpg"
+  ],
+  "Media in user detail": [
+    "https://ik.imagekit.io/bmf6noswq/images/image60.jpg"
+  ],
+  "Groups": ["https://ik.imagekit.io/bmf6noswq/images/image32.jpg"],
+  "Profile in groups ": ["https://ik.imagekit.io/bmf6noswq/images/image27.jpg"],
+  "Communicating in groups": [
+    "https://ik.imagekit.io/bmf6noswq/images/image53.jpg"
+  ],
+  "Media in groups": ["https://ik.imagekit.io/bmf6noswq/images/image50.jpg"],
+  "Group settings in groups": [
+    "https://ik.imagekit.io/bmf6noswq/images/image68.jpg"
+  ],
+  "Members in group": ["https://ik.imagekit.io/bmf6noswq/images/image57.jpg"],
+  "Main feature in group": [
+    "https://ik.imagekit.io/bmf6noswq/images/image27.jpg"
+  ],
+  "Tracks": [
+    "https://ik.imagekit.io/bmf6noswq/images/image16.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/unnamed.jpg"
+  ],
+  "Incidents": [
+    "https://ik.imagekit.io/bmf6noswq/images/image38.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image65.jpg"
+  ],
+  "Right drawer menu": ["https://ik.imagekit.io/bmf6noswq/images/image26.jpg"],
+  "Language": ["https://ik.imagekit.io/bmf6noswq/images/image26.jpg"],
+  "About us": [
+    "https://ik.imagekit.io/bmf6noswq/images/image26.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image9.jpg"
+  ],
+  "Privacy Policy": [
+    "https://ik.imagekit.io/bmf6noswq/images/image26.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image31.jpg"
+  ],
+  "Terms and conditions": [
+    "https://ik.imagekit.io/bmf6noswq/images/image26.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image10.jpg"
+  ],
+  "Help and Support": [
+    "https://ik.imagekit.io/bmf6noswq/images/image26.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image29.jpg"
+  ],
+  "Color Scheme": [
+    "https://ik.imagekit.io/bmf6noswq/images/image26.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image48.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image15.jpg"
+  ],
+  "Area": [
+    "https://ik.imagekit.io/bmf6noswq/images/image6.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image4.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250508_154237.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250508_154255.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250508_154311.jpg"
+  ],
+  "Departments": [
+    "https://ik.imagekit.io/bmf6noswq/images/image6.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image4.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250508_144433.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250508_144420.jpg"
+  ],
+  "Designations": [
+    "https://ik.imagekit.io/bmf6noswq/images/image6.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image4.jpg"
+  ],
+  "Offices": [
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250514_114507.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250514_114513.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250514_114521.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250514_114537.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250514_114551.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250514_114557.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250514_114606.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250514_114610.jpg"
+  ],
+  "Cities": [
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250514_114507.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250514_114513.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250514_123407.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250514_123417.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250514_123431.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250514_123708.jpg"
+  ],
+  "Users": [
+    "https://ik.imagekit.io/bmf6noswq/images/image6.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/Screenshot_20250514_114513.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image37.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image19.jpg"
+  ],
+  "Personal Info": ["https://ik.imagekit.io/bmf6noswq/images/image55.jpg"],
+  "Professional Info": ["https://ik.imagekit.io/bmf6noswq/images/image33.jpg"],
+  "Device info": ["https://ik.imagekit.io/bmf6noswq/images/image61.jpg"],
+  "Hardware Permissions": [
+    "https://ik.imagekit.io/bmf6noswq/images/image11.jpg"
+  ],
+  "Permissions": [
+    "https://ik.imagekit.io/bmf6noswq/images/image45.jpg",
+    "https://ik.imagekit.io/bmf6noswq/images/image62.jpg?"
+  ],
+  "شاشة تسجيل الدخول": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(16).jpg"
+  ],
+  "صفحة التسجيل": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(17).jpg"
+  ],
+  "قائمة الدرج الأيسر": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(15).jpg"
+  ],
+  "الملف الشخصي": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(15).jpg",
+    "",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(9).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(13).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(12).jpg"
+  ],
+  "أمان الجهاز": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(15).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(9).jpg"
+  ],
+  "تسجيل الخروج من صفحة الملف ": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(15).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(9).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(10).jpg"
+  ],
+  "حذف الحساب": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(15).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(9).jpg"
+  ],
+  "تغيير كلمة المرور": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(15).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(8).jpg"
+  ],
+  "الحالة": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(15).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(6).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(7).jpg"
+  ],
+  "ملاحظات": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(15).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(5).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(60).jpg"
+  ],
+  "تسجيل الخروج من القائمة اليسرى": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(15).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(65).jpg"
+  ],
+  "شريط الأحداث": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(2).jpg"
+  ],
+  "حساب المستخدم مع الوقت والتاريخ": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(2).jpg"
+  ],
+  "الإشعارات": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(2).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(63).jpg"
+  ],
+  "الإعلانات": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(2).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(4).jpg"
+  ],
+  "المهام": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(2).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(1).jpg"
+  ],
+  "جهات اتصال المستخدم": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(2).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(61).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(62).jpg?updatedAt=1747801216711",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(64).jpg"
+  ],
+  "تفاصيل المستخدم في جهات اتصال المستخدم": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(64).jpg"
+  ],
+  "التواصل بتفاصيل المستخدم": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(64).jpg"
+  ],
+  "الوسائط في تفاصيل المستخدم": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(3).jpg"
+  ],
+  "المجموعات": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(50).jpg"
+  ],
+  "الملف الشخصي في المجموعات": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(52).jpg"
+  ],
+  "التواصل في المجموعات": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(56).jpg"
+  ],
+  "الوسائط في المجموعات": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(55).jpg"
+  ],
+  "إعدادات المجموعة في المجموعات": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(57).jpg"
+  ],
+  "الأعضاء في المجموعة": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(52).jpg"
+  ],
+  "الميزة الرئيسية في المجموعة": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(52).jpg"
+  ],
+  "المسارات": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(54).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(58).jpg"
+  ],
+  "الحوادث": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(51).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(53).jpg"
+  ],
+  "قائمة الدرج الأيمن": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(48).jpg"
+  ],
+  "اللغة": ["https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(48).jpg"],
+  "من نحن": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(48).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(46).jpg"
+  ],
+  "سياسة الخصوصية": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(48).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(44).jpg"
+  ],
+  "الشروط والأحكام": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(48).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(49).jpg"
+  ],
+  "المساعدة والدعم": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(48).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(45).jpg"
+  ],
+  "نظام الألوان": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(48).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(40).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(41).jpg"
+  ],
+  "المنطقة": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(40).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(47).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(39).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(38).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(43).jpg"
+  ],
+  "الأقسام": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(40).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(47).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(37).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(42).jpg"
+  ],
+  "المكاتب": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(40).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(47).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(34).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(31).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(33).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(35).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(32).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(36).jpg"
+  ],
+  "المدن": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(40).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(47).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(30).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(28).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(29).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(27).jpg"
+  ],
+  "المستخدمون": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(40).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(47).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(26).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(19).jpg"
+  ],
+  "المعلومات الشخصية": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(20).jpg"
+  ],
+  "المعلومات المهنية": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(22).jpg"
+  ],
+  "معلومات الجهاز": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(23).jpg"
+  ],
+  "أذونات الأجهزة": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(21).jpg"
+  ],
+  "الأذونات": [
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(18).jpg",
+    "https://ik.imagekit.io/bmf6noswq/images%20arabic/pic%20(25).jpg"
+  ]
+}

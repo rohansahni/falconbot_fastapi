@@ -1,0 +1,695 @@
+﻿Sno
+	Description
+	Screens
+	1
+	Login screen
+Steps to Log In to the E-Command Control Application:
+* Enter your registered mobile number or email address in the Username field. 
+* Enter your password in the Password field.
+* Click the Login button.
+* Upon successful authentication, you will be redirected to the dashboard. The available menu options will be displayed based on your assigned user privileges.
+	  
+
+	2
+	Sign up page
+Steps to Sign Up for the E-Command Control Application:
+* Click the "Sign Up" button located below the "Sign In" option on the login page.
+* Complete the sign-up form by entering the required information.
+* Review and agree to the Terms & Conditions by checking the corresponding box, then click "Verify".
+* An OTP (One-Time Password) prompt will appear on the screen.
+* Access the email account provided during registration. An OTP will be sent to your email.
+* Copy the OTP from the email and enter it in the designated field on the application.
+* After entering the correct OTP, your account will be successfully created and ready for use.
+
+
+	  
+
+	3
+	Forgot password
+            Follow the steps to Forget password 
+* On the login page, click the "Forgot Password" link if you are unable to recall your password.
+* Enter the registered email address or phone number associated with your account and click "Confirm." 
+* A prompt will appear requesting a One-Time Password (OTP).
+* Check your email inbox (used during sign-up) for the OTP.
+* Copy the OTP from your email and enter it into the prompt on the screen.
+* Click "Confirm" to proceed. The system will automatically validate the OTP.
+* Upon successful verification, you will be redirected to your dashboard.
+                  
+	  
+  
+
+	4
+	Left drawer menu
+             Follow the steps to view about left  
+             drawer menu
+* After successfully logging in, you will be directed to the dashboard home page. 
+* On the top-left corner of the screen, locate and click the menu button to open the left drawer menu. 
+* Once clicked, the left drawer menu will slide out, displaying all available options.
+* At the top of the menu, you will see a personalized welcome message, such as "Welcome, [User Name]".
+	  
+
+	5
+	Profile 
+              Follow the steps to view about profile in                left drawer menu      
+* Open the left drawer menu to access various navigation options.
+* Locate and select the Profile option in the menu.
+* Upon selection, you will be redirected to the Profile Page.
+* On the Profile Page, you can edit basic user information.
+* Tap on the User Profile Section to update the following details like  profile picture ,display name ,Phone Number , Mail Id , Designation , Office ID , Country , State , City , Area , Address and Pin code 
+* After completing the updates, click the Update button to save the changes.         
+	  
+
+  
+
+  
+
+
+
+
+
+  
+
+	6
+	Device Security
+              Follow the steps to view about device security in left drawer menu     
+* Open the left drawer menu and navigate to the Profile section.
+* Tap on Profile to be redirected to the Profile page
+* On the Profile page, you will find the Device Security option listed below My Account.
+* In the Device Security section, you can enable or disable Face ID / Touch ID using the toggle button to enhance your account's security.
+                                                                 
+
+
+ 
+
+	  
+
+  
+
+
+
+	7
+	Logout in profile page 
+               Follow the steps to view about Log out from the account  in left drawer menu
+* Open the left drawer menu.
+* In the menu, select the Profile option to navigate to the Profile page. 
+* In the menu, select the Profile option to navigate to the Profile page.
+* Click on the Logout button.
+* A confirmation prompt will appear. Upon confirming, you will be successfully logged out and redirected to the Sign-Up page.                                                            
+	  
+
+
+
+  
+
+  
+
+	8
+	Delete Account 
+To delete your account, follow these steps:
+* Open the left drawer menu.
+* Navigate to the Profile section. This will take you to the Profile Page.
+* Scroll to the bottom of the Profile Page, where you will find the Delete Account option.
+* Click the Delete Account button. A confirmation prompt will appear.
+* Confirm your action by selecting Delete in both confirmation dialogs. Once confirmed, your account will be permanently deleted.
+* If you accidentally click the Delete Account button, you will have the option to cancel the action on the next screen.                                                                                               
+ 
+
+
+	  
+
+  
+
+
+
+
+
+  
+
+
+
+	9 
+	Change password
+                  Follow the steps to view about Change password from the account  in left drawer menu 
+* Open the left drawer menu in your account.
+* Locate and select the "Change Password" option.
+* An alert message will appear on the screen. 
+* Enter your current password, followed by your new password.
+* Re-enter the new password in the Confirm Password field.
+* Click the "Change Password" button to complete the process.
+* Upon successful update, a confirmation alert will appear, indicating that your password has been changed.                                                                                                                                                                                                                                                                                                                     
+	  
+
+  
+
+
+
+	10
+	Status
+                  Follow the steps to view about status from the account  in left drawer menu                                                                                                
+* Open the left drawer menu from your account.
+* Locate and select the Status page from the menu options.
+* On the Status page, you will find multiple status options available.
+* Choose the desired status based on your requirements and click Update to apply the changes. 
+* Additionally, if you wish to create a new status, you have the option to both create and update it directly from this page.
+   
+
+
+	  
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+	11
+	Notes
+               Follow the steps to view about Notes  from the account  in left drawer menu 
+* Open the left drawer menu from your account interface.
+* Locate and select the Notes section from the menu options.
+* In the Notes section, you can view multiple saved entries containing important stored information.
+* A built-in search feature is available, making it easy to find specific notes quickly.
+* To create a new note, click the plus (+) icon located at the top right corner of the screen.
+* Enter a title and description for your new note, then click the 'Create' button to save it.                           
+  
+	  
+
+  
+
+  
+
+	12
+	Logout in left drawer menu
+                 Follow the steps to view about Logout from the account  in left drawer menu 
+* Open the left drawer menu. 
+* Locate and tap the "Logout" button.
+* A confirmation alert will appear on the screen.
+* If you select "Confirm", you will be redirected to the Sign-In page.
+                                                           
+
+
+   
+	  
+
+
+
+  
+
+
+
+	13
+	Marquee bar
+ Follow the steps to view about News bar from the dashboard 
+* After logging in, you will be directed to the dashboard home page. 
+* you will see the updated notification bar at the top.  
+* Clicking on "Incidents" will redirect you to the Current Live Incidents page.                                                                                                       
+	
+
+  
+
+	14
+	User Account with Time and Date
+ Follow the steps to view about User Account with Time and Date from the dashboard 
+* After logging in, you will be directed to the dashboard home page. 
+* At the top of the dashboard, you will see the User Account section, along with the current date and time displayed below the news bar.
+
+
+	  
+
+	15
+	Notifications
+ Follow the steps to view about Notifications from the dashboard 
+* After logging in, you will be directed to the dashboard home page. 
+* Click on the notifications icon to view all available notifications in detail.
+
+
+
+
+
+
+	  
+
+  
+
+	16
+	Announcements
+ Follow the steps to view about Announcements From the dashboard 
+* After logging in, navigate to the dashboard home page. 
+* On the dashboard, locate the Announcements section.
+* Click on it to view all available announcements. 
+	  
+
+  
+
+	17
+	Tasks
+ Follow the steps to view about Tasks From the dashboard 
+* After logging in, you will be directed to the dashboard home page.
+* On the dashboard, locate the "Tasks" section.
+* Click on "Tasks" to view all available tasks.
+	  
+
+  
+
+	18
+	User Contacts
+Follow the steps to view about User Contacts From the dashboard 
+* After logging in, you will be directed to the dashboard homepage. 
+* From the dashboard, click on "User Contacts."
+* A list of users will be displayed.
+* Click on "View All" to see the complete list of users.
+* Select the specific user whose profile you wish to view.
+	  
+
+  
+
+  
+
+  
+
+	19 
+	User detail in user Contacts 
+Follow the steps to view about User profile From the user Contacts  
+* From the dashboard, click on any user listed under User Contacts.
+* You will be redirected to the User Detail page.  
+* On the User Detail page, you can view the following information such as Username, Profile picture ,  Phone number , Email ID , Current status , Designation                                                     
+	  
+
+	20
+	Communicating in user detail 
+To view the user profile from the user contacts, follow these steps: 
+* On the dashboard, click on any user in the user contacts list.
+* This will redirect you to the user detail page.
+* On the user detail page, you will have access to communication options such as chat, call, video call, and microphone options, enabling communication with multiple users. 
+* Additionally, there will be options to start tracking and view the number of groups and levels associated with the user.
+	  
+
+
+
+
+
+	21
+	Media in user detail
+Follow the steps to view about Media From the user Contacts 
+* Navigate to the Dashboard.
+* Click on any user listed under User Contacts. This action will redirect you to the User Detail page.
+* Scroll down to the bottom section of the User Detail page.
+* In this section, you will find the Media area, where you can view various types of media including: to view the audio , business card , doc , image , location and video
+	  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	22
+	Groups
+Follow the steps to view about Groups From the dashboard 
+* After logging in, you will be directed to the dashboard home page.
+* On the dashboard, locate and click on the "Groups" section.
+* You will see a list of all available groups.
+* Click on the group you wish to view to access its profile and details.
+	  
+
+
+
+	23
+	Profile in groups 
+To view a profile within a group, follow these steps:
+* From the dashboard, click on any group listed under the "Groups" section. This will redirect you to the selected group's homepage.
+* On the group homepage, the layout begins with the group's profile picture, followed by the group name, and then the "Do Not Disturb" button.  
+
+
+	  
+
+	24
+	Communicating in groups
+Follow the steps below to learn how to communicate within groups:  
+* From the dashboard, click on any group listed under Groups. This will navigate you to the selected group’s homepage.
+* On the group homepage, click the first option available. You will then be able to access features such as: view the chat , call , video call , push to talk , live stream
+                                                             
+	
+
+  
+
+
+
+
+
+
+
+	25
+	Uploads in groups
+Follow the steps below to view uploads within a group:
+* From the dashboard, click on any group listed under "Groups." You will be redirected to the selected group's homepage.
+* Click on the second option in the menu. This will display the uploads, including images, audio files, videos, and documents.
+	  
+
+	26
+
+
+	Choose from in groups 
+Follow the steps to view uploads within the groups.
+* On the dashboard, click any group to navigate to its specific homepage. 
+* Once the third option is selected, the options to archive the group, set the group as inactive/active, and exit the group will be displayed."
+	  
+
+	27
+	Members in group
+Follow the steps to view about uploads in groups
+* From the dashboard, click on any group under the 'Groups' section to navigate to the respective group's homepage.
+* Upon entering the group's homepage, you will see a list of all the members displayed in the center of the screen. At this point, multiple options will be available for further actions."
+	  
+
+	28
+	Main feature in group
+Follow the steps to view about uploads in groups
+* From the dashboard, click on any group listed under "Groups." This action will navigate you to the selected group's homepage.
+* Once on the group homepage, scroll to the bottom of the page to access the main features.
+* There, you will find options such as Track, Task, Incident, and Live Stream.
+	  
+
+
+
+	29
+	Tracks
+To view information about tracks on the home page, follow these steps: 
+* From the dashboard, click the Tracks button.
+* You will be redirected to the Create Tracker page.
+* On the Create Tracker page, select either a user or a group, then enter a title and description for the tracker.
+* Provide the location details, and upload relevant images and videos in the background section.
+* Finally, click the Create Tracker button to complete the process.
+	  
+
+  
+
+	30
+	Incidents 
+To view incident details from the homepage, follow these steps:
+* From the dashboard, click on the Incidents button.
+* This will display the current active incidents.
+* To see the full list, click the View All button.
+* Select any incident from the list to navigate to the Incident Details page.
+* On this page, you can view all relevant information and access additional feature options related to the incident.                                                                                                 
+                
+	  
+
+  
+
+	31
+	Real Time
+            Follow the steps to view about real time information 
+* From the dashboard, click on the Real-Time section. 
+* A list of users will be displayed.
+* Scroll to the right, and you will see a "View All" button.
+* Click the "View All" button to navigate to the Recent Chats page.
+* On this page, all users will initially be visible under the All Users section.
+* In the Users section, you can see a list of individual users.
+* Clicking on a user allows you to initiate a chat.
+* Below the Users section, you will find the Groups section. 
+* Following that, there is a Broadcast section.           
+
+
+	  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+	32
+	Right drawer menu
+             Follow the steps below to access and explore the Right Drawer Menu:
+* Once you have successfully logged in and are on the dashboard home page, locate the button at the top-right corner of the screen.
+* Clicking this button will open the Right Drawer Menu. 
+* You will now be able to view all available options within the Right Drawer Menu, starting with the current language selection button (English) at the top.
+	  
+
+	33
+	Language 
+              Follow the steps to view about       Language 
+* Open the right-side drawer menu.
+* You will see a toggle button labeled "Eng/Arabic."
+* Click the toggle button to switch the language from English to Arabic.
+* Click again to switch back from Arabic to English.  
+* You can switch between languages at any time based on your preference.
+	  
+
+
+
+	34
+	About us 
+Follow the steps to view about About us 
+* Open the right-side drawer menu.
+* Locate and select the "About Us" option.
+* Upon clicking, detailed information about us will be displayed.
+	  
+
+  
+
+	35
+	Privacy Policy
+Follow the steps to view about Privacy Policy 
+* Open the right drawer menu.
+* Locate and select the Privacy Policy option.
+* Upon selection, the Privacy Policy details will be displayed.
+	  
+
+  
+
+	36 
+	Terms and conditions 
+To view the Terms and Conditions, please follow the steps below: 
+* Open the right-side drawer menu.
+* Locate and select the "Terms and Conditions" option.
+* Upon selection, the Terms and Conditions information will be displayed. 
+	  
+
+  
+
+	37
+	Help and Support  
+Follow the steps below to access Help and Support:  
+* Open the right-side drawer menu.
+* Locate and select the Help and Support option. 
+* Upon selection, detailed Help and Support information will be displayed. 
+	  
+
+  
+
+	38
+	Color Scheme
+Follow the steps to view about Color Scheme  
+* To access the color scheme settings, open the right-hand drawer menu. 
+* At the bottom of the screen, you will find the Color Scheme option, which includes a toggle button to switch between Light and Dark modes.
+* You can customize the app's theme based on your preference by toggling between these options.
+
+
+	  
+
+  
+
+  
+
+	39
+	Area
+Follow the steps to view about Area  
+* From the Dashboard, navigate to the bottom bar and click on Controls. 
+* This will redirect you to the Admin Access section 
+* In the admin panel, select Area to view the list of available areas. 
+* You will see the total number of areas displayed.
+* You can select any area from the list to view its details.
+* If needed, you also have the option to create a new area.
+	  
+
+  
+
+  
+
+  
+
+
+
+	40
+	Departments 
+Follow the steps to view about Departments  
+* From the Dashboard, navigate to the bottom bar and click on Controls.
+* This will redirect you to the Admin Access section. 
+* In the Admin panel, locate and click on Departments.
+*  You will be directed to the Departments List page, where you can view the total number of departments.
+* From here, you can select an existing department to view its details.
+* If needed, you also have the option to create a new department.
+	  
+
+  
+
+  
+
+  
+
+	41 
+	Designations 
+Follow the steps to view about Designations  
+* While on the dashboard, navigate to the bottom bar and click on the Controls option. This will redirect you to the Admin Access section.
+* From there, select Designations to view the list of available designations. 
+* You can see the total number of designations and choose any one from the list. 
+* Additionally, you have the option to create a new designation if needed.
+	  
+
+  
+
+  
+
+  
+
+
+
+	42
+	Offices
+Follow the steps to view about Offices 
+* From the Dashboard, navigate to the bottom bar and click on Controls. 
+* This action will redirect you to the Admin Access section. 
+* In the Admin Access section, locate and click on Offices. 
+* You will be directed to the Offices List page, where you can view the number of available offices.
+* From here, you can select a specific office to view more details.
+* Additionally, you have the option to create a new office if needed.
+
+
+	  
+
+  
+
+  
+
+  
+
+
+
+	43
+	Cities
+Follow the steps to view about Cities
+* From the Dashboard, navigate to the bottom control bar and click on Controls. This will redirect you to the Admin Access section. 
+* In the Admin panel, locate and click on Cities to view the list of available cities.
+* You will see the total number of cities displayed. You can select a specific city from the list as needed. 
+* Additionally, you have the option to create a new city if required.
+	  
+
+  
+
+  
+
+	44
+	Modules
+Follow the steps to view about Modules
+* From the dashboard, navigate to the bottom of the sidebar and click on the Controls option. 
+* This will redirect you to the Admin Access section. 
+* In the Admin Access section, locate and click on Modules.
+* You will be routed to a page displaying the list of available modules.
+* Browse through the list and select the desired module to view its details. 
+	  
+
+  
+
+  
+
+	45
+	Users
+Follow the steps to view about Users
+* From the dashboard, navigate to the Controls option located at the bottom of the sidebar. 
+* Click on Controls to access the admin panel.
+* In the admin panel, select the Users section. This will display a list of all registered users.
+* You can view the total number of users from this list. 
+* To view details of a specific user, simply select the desired user from the list.
+
+
+	  
+
+  
+
+  
+
+  
+
+
+
+	46
+	Personal Info
+Follow the steps to view about Users
+* On the Users page, you will see a list of multiple users. Click on the user you wish to view. This will navigate you to the next page displaying their basic information.
+* You can now access the Personal Information section, where you can update details such as Address, Area, City, State, and Country.  
+	  
+
+	47
+	Professional Info 
+Follow the steps to view about Users
+* On the Users page, you will see a list of users. Click on the user you wish to view. This will take you to the user’s profile page, where some basic information is displayed.
+* Navigate to the Professional Information section. Here, you can update details such as  department , offices , Level , Designation . Once all updates are complete, click Upload to save the changes.
+	  
+
+	48
+	Device info 
+Follow the steps to view about Device info
+* Navigate to the Users page, where a list of users is displayed.
+* Click on the desired user to view their details. This will take you to a new page displaying some basic information.
+* Scroll down to the Device Information section which we can update our Device Type , Device Token , Device ID , Device OS , Device Name  
+* Once all necessary updates have been made, click Upload to save the changes.
+	  
+
+	49
+	Hardware Permissions 
+Follow the steps to view about Hardware Permissions
+* On the Users page, multiple users are displayed. By selecting a user, you will be redirected to a detailed page containing their basic information.
+* On this page, you can manage Hardware Permissions, including access to the camera, gallery, microphone, and location (while using the app).
+* Additionally, you can grant permissions for writing to internal storage and accessing location in the background. 
+	  
+
+	50 
+	Permissions 
+Follow the steps to view about Permissions
+* Navigate to the Users page, where a list of users will be displayed.
+* Click on the specific user you wish to manage. This will open a detailed view showing basic information about the selected user.
+* In this view, you will find the Permissions section, which includes options such as: user access , group access , real time , tracking , incident , live Stream access , admin access , report select 
+* Select or update the relevant permission options as needed.
+* Once your selections are complete, click the Update button to save the changes.
+	  
+
+  
+
+	51 
+	Actions 
+Follow the steps to view about  Actions
+* Navigate to the Users page, where a list of users is displayed.
+* Click on the user you wish to view. This will take you to a detailed page displaying basic user information
+* On this page, you will find actions drop down click it , then it will show several actionable options , including Change Password , Unlock User , Send Notifications , Create Task , Create Track , Add to Incident , Create Announcement , View Group List and Delete Account
+* Select any of these options to perform the corresponding action.        
+	  
+
+	
+
+	
+
+	
+
+	
+
+.
