@@ -1,0 +1,9 @@
+deep_translator
+langdetect
+fuzzywuzzy
+fastapi
+langchain
+langchain_community
+dotenv
+pydantic
+langchain_google_genai
