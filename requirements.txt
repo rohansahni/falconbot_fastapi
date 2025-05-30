@@ -7,3 +7,4 @@ langchain_community
 dotenv
 pydantic
 langchain_google_genai
+uvicorn
