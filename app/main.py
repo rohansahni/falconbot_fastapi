@@ -10,8 +10,8 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGener
 from langchain.chains import RetrievalQA
 from fuzzywuzzy import process
 from langdetect import detect
-# from deep_translator import GoogleTranslator
-# from deep_translator.exceptions import RequestError
+from deep_translator import GoogleTranslator
+from deep_translator.exceptions import RequestError
 import time
 
 # === Load environment variables ===
