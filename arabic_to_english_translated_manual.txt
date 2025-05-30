@@ -1,0 +1,433 @@
+SL NO
+Description
+Screenshot
+1
+Login Screen
+Steps to log in to the E-Command Control app:
+Enter your registered mobile phone number or email address in the login field.
+Enter your password in the password field.
+Click the Login button.
+After successful authentication, you will be directed to the control panel. Available menu options will appear based on your assigned user permissions.
+
+2
+Registration Page
+Steps to register in the E-Command Control app:
+Click the "Register" button below the "Login" option on the login page.
+Complete the registration form by entering the required information.
+Review and agree to the terms and conditions by selecting the appropriate box, then click "Confirm."
+A One-Time Passcode (OTP) will appear on the screen.
+Log in to the email account you entered during registration. A One-Time Passcode (OTP) will be sent to your email address.
+Copy the password from the email and enter it in the designated field in the app.
+After entering the correct password, your account will be successfully created and ready to use.
+
+3
+Forgot your password
+Follow the steps for forgetting your password
+On the login page, click "Forgot your password" if you can't remember it.
+Enter the registered email address or phone number associated with your account, then click "Confirm."
+A message will appear requesting a one-time password (OTP).
+Check your email inbox (used during registration) for the OTP.
+Copy the password from your email and enter it in the message that appears on the screen.
+Click "Confirm" to continue. The system will automatically verify the OTP.
+After successful verification, you will be redirected to the control panel.
+
+4
+Left Drawer Menu
+Follow the steps to view information about the left drawer menu.
+
+After successful login, you will be redirected to the control panel home page.
+
+In the upper left corner of the screen, locate the left menu icon and click it to open the left drawer menu.
+
+Once clicked, the left drawer menu will slide out, displaying all available options.
+
+At the top of the menu, you'll see a personalized welcome message, such as "Hello, [Username]."
+
+5
+Profile
+Follow the steps to view your profile information in the left menu.
+Open the left menu to access various navigation options.
+Select the Profile option from the list.
+After selecting it, you'll be directed to the Profile page.
+On the Profile page, you can edit basic profile information.
+Click the "User Profile" section to update the following details: Profile photo, Username, Phone number, Email ID, Job title, Office ID, Country, State, City, Region, Address, and Zip/Postal code.
+After filling in the required fields, click the "Update" button to save the changes.
+
+6
+Device Security
+Follow the steps to view your device security information in the left menu.
+Open the left menu and go to the Profile section.
+Click on Profile to go to the Profile page.
+On the Profile page, you'll find the Device Security option under My Account.
+In the Device Security section, you can enable or disable Face ID/Touch ID using the toggle to enhance your account security.
+
+Device Security
+Follow the steps to view device security information in the left menu.
+Open the left menu and go to the Profile section.
+Click on Profile to go to the Profile page.
+On the Profile page, you'll find the Device Security option under My Account.
+In the Device Security section, you can enable or disable Face ID/Touch ID using the toggle to enhance your account security.
+
+7
+Sign Out from the Profile page
+Follow the steps to view information about signing out of your account in the left menu.
+Open the left menu.
+In the menu, select the "Profile" option to go to the Profile page.
+Click on the Sign Out button.
+A confirmation message will appear. After confirming, you'll be successfully signed out and redirected to the registration page.
+
+8
+Delete Account
+To delete your account, follow these steps:
+Open the left menu.
+Go to the Profile section. This will take you to the Profile page.
+Scroll down the Profile page, where you'll find the Delete Account option.
+Click on the Delete Account button. A confirmation message will appear.
+Confirm your action by selecting "Delete" in both confirmation boxes. Once confirmed, your account will be permanently deleted.
+
+If you clicked the Delete Account button by mistake, you will have the option to cancel the action on the next screen by selecting the "Keep Account" option.
+
+9
+Change Password
+Follow the steps to view information about changing your account password in the left menu.
+Open the left menu in your account.
+Find and select the "Change Password" option.
+A notification message will appear on the screen.
+Enter your current password, then your new password.
+Re-enter the new password in the "Confirm Password" field.
+Click the "Change Password" button to complete the process.
+After the update is successful, a confirmation message will appear indicating that your password has been changed.
+
+10
+Status
+Follow the steps to view your account status in the left menu.
+Open the left menu in your account.
+Find the Status page from the menu options.
+On the Status page, you will find several status options.
+Choose the status you want based on your needs, and the changes will be applied at the top of the selection box.
+To create a new status, click the plus (+) icon in the top right corner of the screen.
+Enter your new status, then click the Create button to save it.
+
+
+11
+Notes
+Follow the steps to view information about account notes in the left menu.
+Open the left menu of your account.
+Select the Notes section from the menu options.
+In the Notes section, you can view multiple saved entries containing important stored information.
+A built-in search feature makes it easy to quickly find specific notes.
+To create a new note, click the plus (+) icon in the top-right corner of the screen.
+Enter a title and description for your new note, then click the "Create" button to save it.
+
+12
+Sign Out from the Left Menu
+Follow the steps to view the account sign-out information in the left menu.
+Open the left menu.
+Click the "Sign Out" button.
+A confirmation notification will appear on the screen.
+By selecting "Confirm," you will be redirected to the sign-in page.
+
+13
+Event Bar
+Follow the steps to view the news bar from your dashboard.
+After signing in, you will be redirected to the dashboard home page.
+You will see the updated notification bar at the top.
+Clicking "Events" will take you to the current live events page.
+
+14
+User Account with Date and Time
+Follow the steps to view information about your user account with the date and time from your dashboard.
+After logging in, you'll be directed to the dashboard home page.
+At the top of your dashboard, you'll find the "User Account" section, along with the current date and time below the news bar.
+
+15
+Notifications
+Follow the steps to view notifications from your dashboard.
+After logging in, you'll be directed to the dashboard home page.
+Click the Notifications icon to view all available notifications in detail.
+
+16
+Advertisements
+Follow the steps to view advertisements from your dashboard.
+After logging in, go to the dashboard home page.
+In your dashboard, find the Advertisements section.
+Click it to view all available advertisements.
+
+17
+Tasks
+Follow the steps to view information about tasks from your dashboard.
+After logging in, you'll be directed to the dashboard home page.
+In your dashboard, find the "Tasks" section.
+Click "Tasks" to view all available tasks.
+
+18
+User Contacts
+Follow the steps to view information about user contacts from the dashboard.
+After logging in, you will be redirected to the dashboard home page.
+From the dashboard, click "User Contacts."
+A list of users will appear.
+Click "View All" to view the full list of users.
+Select the user whose profile you want to view.
+
+19
+User Details in User Contacts
+Follow the steps to view the user profile. From User Contacts
+From the dashboard, click on any user listed under User Contacts.
+You will be redirected to the user details page.
+On the user details page, you can view the following information: user name, profile picture, phone number, email ID, current status, and job title.
+
+20
+Contacting User Details
+To view a user profile from User Contacts, follow these steps:
+From the dashboard, click on any user in the user contacts list.
+You will be redirected to the user details page.
+On the user details page, you'll have access to communication options such as chat, calls, video calls, and microphone options, allowing you to communicate with multiple users. Additionally, there are options to start tracking and view the number of groups and levels associated with the user.
+
+
+21
+Media in User Details
+Follow the steps to view media information from a user's contacts.
+Go to the dashboard.
+Click on any user listed under the user's contacts. This will redirect you to the user's details page.
+Scroll down to the bottom section of the user's details page.
+In this section, you'll find the Media area, where you can view different types of media, including audio, business cards, documents, photos, location, and video.
+
+22
+Groups
+Follow the steps to view information about groups from the dashboard.
+After logging in, you'll be redirected to the dashboard home page.
+In the dashboard, find and click on the "Groups" section.
+A list of all available groups will appear.
+Click on the group you want to view to access its profile and details.
+
+23
+Profile in Groups
+To view a profile within a group, follow these steps:
+From the dashboard, click on any group listed under the "Groups" section. This will redirect you to the home page for the selected group.
+On the group homepage, the design begins with the group's profile picture, followed by the group name, and then the "Do Not Disturb" button.
+
+24
+Communicating in Groups
+Follow these steps to learn how to communicate within groups:
+From the dashboard, click on any group listed under "Groups." This will take you to the homepage of the selected group.
+On the group homepage, click the first available option. You will then be able to access features such as: View Chat, Call, Video Call, Push to Talk, and Live Broadcast.
+
+25
+Media in Groups
+Follow these steps to view media within a group:
+From the dashboard, click on any group listed under "Groups." You will be taken to the homepage of the selected group.
+Click the second option in the list. This will display uploaded files, including photos, audio files, videos, and documents.
+
+26
+Group Settings in Groups
+Follow the steps to view group settings within groups.
+From the dashboard, click on any group to go to its homepage.
+Once you select the third option, options to archive the group, mark it as inactive/active, and exit it will appear.
+
+27
+Group Members
+Follow the steps to view information about members in groups.
+From the dashboard, click on any group under the "Groups" section to go to its home page.
+When you enter the group home page, you'll see a list of all members in the middle of the screen. You'll then have several options for additional actions.
+
+28
+Group Main Features
+Follow the steps to view the Group Main Features
+From the dashboard, click on any group listed under "Groups." This will take you to the home page of the selected group.
+When you reach the group home page, scroll down to access the main features.
+There, you'll find options such as "Track," "Task," "Incident," and "Live Broadcast."
+
+29
+Tracks
+To view track information on the home page, follow these steps:
+From the dashboard, click the Tracks button.
+You'll be directed to the "Create Tracker" page.
+On the "Create Tracker" page, select a user or group, then enter a title and description for the tracker.
+Enter location details and upload relevant photos and videos in the "Background" section. If necessary, you can switch the camera using the "Flip" option.
+In addition, you'll find "Background" and "Visibility" settings, which you can enable or disable as needed.
+For user permissions, an option is available below. Clicking it will take you to the next page where you can manage user permissions, including: camera, gallery, write to internal memory, microphone, location (while using the app), and location (in the background).
+These permissions are disabled by default. You can request and enable them as needed.
+Finally, click the "Create Tracker" button to complete the process.
+
+30
+Incidents
+To view incident details from the home page, follow these steps:
+From the dashboard, click the "Incidents" button.
+The currently active incidents will be displayed.
+To view the full list, click the "View All" button.
+Select any incident from the list to go to the incident details page.
+On this page, you can view all relevant information and access additional feature options related to the incident.
+
+
+31
+Real Time
+Follow the steps to view real-time information.
+From the dashboard, click on the Real Time section.
+A list of users will appear.
+Scroll right, and you will find the "View All" button.
+Click on the "View All" button to go to the Recent Chats page.
+On this page, all users will initially appear under the "All Users" section.
+In the "Users" section, you can see a list of individual users.
+By clicking on a user, you can start a chat.
+Under the "Users" section, you will find the "Groups" section.
+Following this, you will find the "Broadcasts" section.
+
+32
+Right Drawer Menu
+Follow the steps below to access and explore the right drawer menu:
+After successfully logging in and navigating to the dashboard home page, click on the button at the top right of the screen.
+Clicking this button will open the right drawer menu.
+You will now be able to view all the available options in the right drawer menu, starting with the current language selection button (English) at the top.
+
+33
+Language
+Follow the steps to view language information.
+Open the right side menu.
+You will find a toggle button labeled "English/Arabic."
+Click this button to switch the language from English to Arabic.
+Click again to switch from Arabic to English.
+You can switch between languages ​​at any time according to your preference.
+
+34
+About Us
+Follow the steps to view information about us.
+Open the right side menu.
+Find and select the "About Us" option.
+Clicking it will display detailed information about us.
+
+35
+Privacy Policy
+Follow the steps to view the privacy policy.
+Open the right side menu.
+Find and select the "Privacy Policy" option.
+After selecting it, the privacy policy details will appear.
+
+36
+Terms and Conditions
+To view the terms and conditions, please follow the steps below:
+Open the right side menu.
+Find and select the "Terms and Conditions" option.
+After selecting it, the terms and conditions information will appear.
+
+37
+Help and Support
+Follow the steps below to access Help and Support:
+Open the left side menu.
+Select the Help and Support option.
+After selecting it, detailed information about Help and Support will appear.
+
+38
+Color Scheme
+Follow the steps to view the Color Scheme
+To access the Color Scheme settings, open the right side menu.
+At the bottom of the screen, you'll find the "Color Scheme" option, which includes a toggle button to switch between light and dark modes.
+You can customize the app's theme to your liking by toggling between these options.
+
+39
+Region
+Follow the steps to view information about your region.
+From the Control Panel, go to the bottom bar and click "Controls." This will take you back to the "Admin Access" section.
+In the Admin Panel, locate "Region" and click on it.
+You will be taken to the region page where you can select your country, state, and city from the drop-down menus, then select the region, activate the status, and finally click the Update button.
+If necessary, you can also create a new region by clicking the plus (+) icon in the top-right corner of the screen. Then select your country, state, and city, enter the region name, enable the status, and click the "Create" button.
+
+40
+Departments
+Follow the steps to view information about departments.
+From the dashboard, go to the bottom bar and click "Controls." This will take you back to the "Administrator Access" section.
+In the admin panel, select "Departments" and click on it.
+You will be taken to the "Departments" page, where you can select your country, state, city, region, and office from the drop-down menus. Then, select the department, which will take you to the next page where you can see the title and description. At the bottom, enable the status, then click the Update button.
+If necessary, you can also create a new department by clicking the plus (+) icon in the top-right corner of the screen. Then, enter the title and description, select your country, state, city, region, and office, enable the status, and click the "Create" button.
+
+
+
+41
+Assignments
+Follow the steps to view assignments.
+From the dashboard, go to the bottom bar and click "Controls." This will take you back to the "Administrator Access" section.
+In the admin panel, select "Assignments" and click on it.
+You will be taken to the "Assignments" page, where you can select the country, state, city, region, office, and department from the drop-down menus. Then, select "Assignments," which will take you to the next page where you can see the title and description. At the bottom, enable the status and then click the Update button.
+If necessary, you can also create a new assignment by clicking the (+) icon in the top right corner of the screen. Then, type the title and description, select the country, state, city, region, office, and assignment from the drop-down menus, enable the status, and click the "Create" button.
+
+42
+Offices
+Follow the steps to view information about offices.
+From the dashboard, go to the bottom bar and click "Controls."
+This action will redirect you to the "Administrator Access" section.
+In the "Administrator Access" section, locate and click "Offices."
+You will be redirected to the "Offices" page, where you can select your country, state, city, and region from the respective drop-down menus. After selecting the desired office, you will be taken to the next page, where you can view its title and description. At the bottom of the page, you will see the updated address of the selected office, along with its latitude and longitude. Finally, enable the "Status" toggle and click the "Update" button to save your changes.
+If necessary, you can create a new office by clicking the plus (+) icon in the upper-right corner of the screen. Enter the office title and description, then select your country, state, city, and region from the respective drop-down menus, and then select the address. Enable the "Status" option, and then click the "Create" button to complete the process.
+
+43
+Cities
+Follow the steps to view information about cities.
+From the dashboard, navigate to the bottom control bar and click "Controls." This will return you to the "Administrator Access" section.
+In the "Administrator Access" section, locate and click "Cities."
+You will be redirected to the "Cities" page, where you can select your country and state from the respective drop-down menus. After selecting the desired cities, you will be redirected to the next page, where the selected country, state, and cities will be displayed. Finally, enable the "Status" option and click the "Update" button to save your changes.
+If necessary, you can add a new city by clicking the plus (+) icon in the top-right corner of the screen. Select the appropriate country and state, enter the city name, enable the "Status" option, and click the "Create" button to save the new entry.
+
+44
+Modules
+Follow the steps to view the modules.
+From the dashboard, scroll down the sidebar and click the "Controls" option.
+You will be redirected to the "Administrator Access" section.
+In the "Administrator Access" section, locate "Modules" and click on it.
+You will be redirected to a page displaying a list of available modules.
+Browse the list and select the desired module to view its details.
+
+45
+Users
+Follow the steps to view user information.
+From the dashboard, go to the "Controls" option at the bottom of the sidebar.
+Click "Controls" to access the admin panel.
+In the admin panel, select the "Users" section. A list of all verified users will appear.
+You can view the total number of verified users from this list.
+To view a specific user's details, simply select the desired user from the list.
+Note: If a user has not completed the registration process, including verification using a One-Time Password (OTP), they will be marked as unverified.
+
+46
+Personal Information
+Follow the steps to view users' personal information.
+On the "Users" page, you will see a list of multiple users. Click on the user whose information you wish to view. This will take you to the next page, which displays their basic information.
+You can now view the "Personal Information" section, where you can view details such as address, region, city, state, and country.
+
+47
+Professional Information
+Follow the steps to view users' professional information.
+On the Users page, you'll see a list of multiple users. Click on the user whose information you want to view. This will take you to the next page, which displays their basic information.
+You can now access the Professional Information section. In this section, you can view level details and update information related to the department, offices, and job title.
+After making all updates, click "Update" to save the changes.
+
+48
+Device Information
+Follow the steps to view users' information.
+On the Users page, you'll see a list of multiple users. Click on the user whose information you want to view. This will take you to the next page, which displays their basic information.
+We can now access the Device Information section. In this section, we can view the device type, device code, device ID, device operating system, and device name.
+
+49
+Device Permissions
+Follow the steps to view information about device permissions for users.
+On the Users page, you'll see a list of multiple users. Click on the user whose information you want to view. This will take you to the next page, which displays its basic information. You can now access the "Device Permissions Information" section. All permissions are disabled by default. Please tap and enable the following options to request server access: Camera, Gallery, Microphone, and Location (while using the app).
+On the "Device Permissions" page, you can also view additional permissions. Note that writing to internal memory and background location access are currently enabled.
+
+
+50
+Permissions
+Follow the steps to view user permissions.
+Go to the Users page, where a list of users will appear.
+Click on the user you wish to manage. This will open a detailed view showing basic information about the selected user.
+In this view, you'll find the Permissions section, which includes options such as Administrator Access and Reports Access. Click "Update" to display the button on the dashboard page.
+In another view, you'll find the Permissions section, which includes various access options such as User Access, Group Access, Instant Access, Tracking Access, Incident Access, and Live Streaming Access.
+Each permission can be configured with the following access levels: Read/Write - Allows users to view and update data. Read Only - Allows users to view data without making any changes. No Access - Hides the section from the dashboard.
+Select your selection and click "Update" to continue.
+
+51
+Procedures
+Follow the steps to view information about the procedure.
+Go to the Users page, where a list of users will appear.
+Click on the user you wish to view. This will take you to a detailed page showing basic user information. On this page, click the "Actions" drop-down menu. A list of available options will appear, including: Change Password, Unlock User, Send Notifications, Create a Task, Create a Track, Add to Incident, Create Announcement, View Groups List, and Delete Account.
+To change a user's password, select "Change Password," enter the new password, confirm it, and then click the "Change Password" button.
+To lock a user's account, click "Unlock User" and confirm the action by selecting "Yes."
+To send a notification to users, enter a subject and message, then click the "Send Notification" button.
+In the Groups section, you will see a list of available groups.
+To delete a user's account, click "Delete Account," then confirm by clicking the "Delete" button.
