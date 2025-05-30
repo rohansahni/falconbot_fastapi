@@ -8,3 +8,4 @@ dotenv
 pydantic
 langchain_google_genai
 uvicorn
+chromadb
