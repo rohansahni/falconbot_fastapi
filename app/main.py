@@ -11,7 +11,8 @@ from langchain.chains import RetrievalQA
 from fuzzywuzzy import process
 from langdetect import detect
 from deep_translator import GoogleTranslator
-
+from deep_translator.exceptions import RequestError
+import time
 
 # === Load environment variables ===
 load_dotenv()
@@ -48,18 +49,62 @@ def append_images_if_applicable(answer: str, question: str) -> str:
     
     return answer
 
-# === Load and Split User Manual ===
+
 loader1 = TextLoader("e-commandcontrol_usermanual_en.txt")
-# loader2 = TextLoader("e-commandcontrol_usermanual_ar.txt", encoding="utf-8")
-document1 = loader1.load()
-# document2 = loader2.load()
-documents = document1 # + document2
+english_docs = loader1.load()
+
+
+translated_file_path = "arabic_to_english_translated_manual.txt"
+
+
+if os.path.exists(translated_file_path):
+    with open(translated_file_path, "r", encoding="utf-8") as f:
+        translated_text = f.read()
+else:
+
+    with open("e-commandcontrol_usermanual_ar.txt", "r", encoding="utf-8") as f:
+        arabic_text = f.read()
+
+
+    splitter = RecursiveCharacterTextSplitter(chunk_size=4800, chunk_overlap=200)
+    chunks = splitter.split_text(arabic_text)
+
+
+    def safe_translate(text, retries=3, delay=2):
+        for attempt in range(retries):
+            try:
+                return GoogleTranslator(source='ar', target='en').translate(text)
+            except RequestError:
+                if attempt < retries - 1:
+                    print(f"Translation failed, retrying in {delay}s...")
+                    time.sleep(delay)
+                else:
+                    raise
+
+    # === Translate chunks ===
+    translated_chunks = []
+    for chunk in chunks:
+        translated_chunk = safe_translate(chunk)
+        translated_chunks.append(translated_chunk)
+
+    translated_text = "\n\n".join(translated_chunks)
+
+    # === Save translation to file for future use ===
+    with open(translated_file_path, "w", encoding="utf-8") as f:
+        f.write(translated_text)
+
+
+loader2 = TextLoader("arabic_to_english_translated_manual.txt")
+translated_docs = loader2.load()
+
+
+documents = english_docs + translated_docs
 
 text_splitter = RecursiveCharacterTextSplitter(
     chunk_size=1000,
     chunk_overlap=200
 )
-
+ 
 docs = text_splitter.split_documents(documents)
 
 # === Embeddings ===
